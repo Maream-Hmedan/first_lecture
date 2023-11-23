@@ -31,7 +31,7 @@ class MyHome extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: const Text(
-            "First Screen",
+            "First Screen..",
             style: TextStyle(fontSize: 20),
           ),
           centerTitle: true,
